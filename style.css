@@ -1,0 +1,14 @@
+
+.cardsfront{
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+    background-color: 778899;
+}
+
+.cardsback{
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+    background-color: yellow;
+}
